@@ -1,0 +1,25 @@
+:root {
+    --azul-oscuro:#3945C2;
+    --morado:#454C96;
+    --gris:#333541;
+    --withe:
+
+
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+
+
+
+
+.header {
+    color:var(--azul-oscuro)
+    /* background-color: darkblue; */
+    display:flex;
+    align-items:center;
+    justify-content: space-between;
+}
